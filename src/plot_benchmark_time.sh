@@ -12,4 +12,4 @@ SLURM_RESTART_COUNT=2
 
 echo $@
 
-Rscript src/plot_memory.R $@
+Rscript src/plot_benchmark_time.R $@

@@ -12,4 +12,4 @@ SLURM_RESTART_COUNT=2
 
 echo $@
 
-Rscript src/plot_time.R $@
+Rscript src/plot_gnutime_time.R $@
